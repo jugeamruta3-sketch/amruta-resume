@@ -1,0 +1,1 @@
+import{t as e}from"./index-BtfIltUd.js";var t=e();function n({eyebrow:e,children:n,description:r}){return(0,t.jsxs)(`div`,{className:`section-heading`,children:[(0,t.jsx)(`p`,{className:`eyebrow`,children:e}),(0,t.jsx)(`h1`,{children:n}),r&&(0,t.jsx)(`p`,{className:`section-description`,children:r})]})}export{n as t};

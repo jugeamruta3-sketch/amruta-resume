@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 432" fill="none">
+  <rect width="720" height="432" rx="18" fill="#211B2A"/>
+  <circle cx="585" cy="82" r="128" fill="#AE5BF5" fill-opacity=".12"/>
+  <rect x="54" y="46" width="612" height="340" rx="14" fill="#F5F1F8"/>
+  <path d="M54 60c0-7.732 6.268-14 14-14h584c7.732 0 14 6.268 14 14v37H54V60Z" fill="#fff"/>
+  <circle cx="77" cy="70" r="5" fill="#FF997F"/>
+  <circle cx="94" cy="70" r="5" fill="#F6CA79"/>
+  <circle cx="111" cy="70" r="5" fill="#80C8A8"/>
+  <path d="M151 70h86M495 70h31m14 0h31m14 0h19" stroke="#C6BECF" stroke-linecap="round" stroke-width="6"/>
+  <rect x="79" y="119" width="179" height="230" rx="9" fill="#EEE8F3"/>
+  <rect x="94" y="134" width="149" height="134" rx="6" fill="#DBBBF0"/>
+  <path d="m94 237 51-58 33 34 24-26 41 44v37H94v-31Z" fill="#A96AD0" fill-opacity=".74"/>
+  <circle cx="202" cy="157" r="13" fill="#F8E4A9"/>
+  <rect x="94" y="284" width="104" height="9" rx="4.5" fill="#34273D"/>
+  <rect x="94" y="303" width="73" height="7" rx="3.5" fill="#A9A0B0"/>
+  <rect x="94" y="324" width="59" height="10" rx="5" fill="#A54FEB"/>
+  <rect x="271" y="119" width="179" height="230" rx="9" fill="#EEE8F3"/>
+  <rect x="286" y="134" width="149" height="134" rx="6" fill="#D7E7D8"/>
+  <path d="M315 245c6-32 20-48 42-48 22 0 36 16 42 48v23h-84v-23Z" fill="#8CAA7B"/>
+  <path d="M357 204c-3-24-14-37-33-41m33 41c4-25 18-38 39-40" stroke="#62835D" stroke-linecap="round" stroke-width="7"/>
+  <rect x="286" y="284" width="88" height="9" rx="4.5" fill="#34273D"/>
+  <rect x="286" y="303" width="73" height="7" rx="3.5" fill="#A9A0B0"/>
+  <rect x="286" y="324" width="59" height="10" rx="5" fill="#A54FEB"/>
+  <rect x="463" y="119" width="179" height="230" rx="9" fill="#EEE8F3"/>
+  <rect x="478" y="134" width="149" height="134" rx="6" fill="#F5DFC5"/>
+  <path d="M507 242c8-28 20-42 36-42s28 14 36 42v26h-72v-26Z" fill="#DBA26D"/>
+  <circle cx="543" cy="176" r="27" fill="#EAC198"/>
+  <path d="M511 181c2-24 12-36 33-36 18 0 28 12 31 36h-64Z" fill="#886650"/>
+  <rect x="478" y="284" width="93" height="9" rx="4.5" fill="#34273D"/>
+  <rect x="478" y="303" width="73" height="7" rx="3.5" fill="#A9A0B0"/>
+  <rect x="478" y="324" width="59" height="10" rx="5" fill="#A54FEB"/>
+</svg>
